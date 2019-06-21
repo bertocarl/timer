@@ -1,5 +1,5 @@
 # TODO list API
-### created with django rest framework 
+### created with django rest framework- By Albert Carlos Omware
 
 # Description
 
