@@ -1,4 +1,4 @@
-Django==1.11.15
+Django==1.11.29
 django-rest-swagger==0.3.7
 djangorestframework==3.9.1
 djangorestframework-jwt==1.8.0
